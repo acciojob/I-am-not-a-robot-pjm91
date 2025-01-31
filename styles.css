@@ -31,6 +31,13 @@ img {
   border: 5px solid rgb(0, 195, 255);
 }
 
+#reset{
+	display:none;
+}
+#verify{
+	display:none;
+}
+
 p {
   text-align: center;
 }
